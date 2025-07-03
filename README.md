@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aplicacao de Marca d'Agua em PDF
 
 ## Descricao
@@ -56,4 +55,5 @@ Os PDFs processados terao:
 # AutomacaoMarcaAgua
 Automação para por marca da agua em documentos .pdf em massa. 
 Apenas Substituir o arquivo "marcaAgua.png" para a marca da água que deseja colocar
->>>>>>> 96fed280a6ba380d55d10c722f666338f8a0c152
+Criar pastas "PDF com marca da agua" e "PDF sem marca da agua"
+
