@@ -29,6 +29,10 @@ echo Configurando branch como main...
 git branch -M main
 
 echo ----------------------------------------
+echo Fazendo pull para sincronizar o repositório remoto...
+git pull origin main --allow-unrelated-histories
+
+echo ----------------------------------------
 echo Enviando arquivos para o GitHub...
 git push -u origin main
 
